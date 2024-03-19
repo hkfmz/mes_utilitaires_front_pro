@@ -2,6 +2,7 @@
 
 1- ANIMATION TEXT CSS
 https://www.codehim.com/demo/css-code-for-animated-text/
+https://www.codehim.com/html5-css3/css-code-for-animated-text/
 
 2- LOADER CSS
 https://cssloaders.github.io/
