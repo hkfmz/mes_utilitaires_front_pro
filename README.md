@@ -14,6 +14,3 @@ https://cssloaders.github.io/
 3- BOUTON CSS
 
 https://cssbuttons.app/
-
-4- ------- Couleurs --------
-https://colors.muz.li/
